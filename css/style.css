@@ -1,0 +1,20 @@
+/* custom css  nijossho css bootstrap a chng ashle jate kuno problem na hoy tai*/
+.panda-bg-info{  /*ekhon ei class ta bg-info class er oikhane use korle hobe*/
+    background-color: #fceae8;
+}
+.watch-bg-color{
+    background-color: #ffa500;
+}
+.bag-bg-color{
+    background-color: #da70d6;
+}
+.shoe-bg-color{
+    background-color: #0000ff;
+}
+.btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
